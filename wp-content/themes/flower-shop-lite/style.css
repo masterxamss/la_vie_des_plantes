@@ -254,20 +254,7 @@ a.ReadMore:hover{background-color:#ffa28f; color:#000; }
 
 /* = sidebar
 -------------------------------------------------------------- */
-#sidebar{ width:330px; float:right;}
-aside.widget{margin-bottom:20px; background-color:#f6f4f4; padding:20px; border:1px solid #edecec;}
-aside.widget ul{ list-style:disc; }
-h3.widget-title{ background-color:#ffa28f; padding:12px 15px; margin-bottom:1px; color:#000000;}
-h3.widget-title a{color:#000000;}
-#sidebar ul li{padding:8px 0; list-style:none; background:url(images/list-arrow.png) no-repeat center left;}
-#sidebar ul{margin:0;}
-#sidebar ul li a{color:#3b3b3b; display:inline-block; padding-left:20px;}
-#sidebar ul li a:hover{ color:#ffa28f;}
-#sidebar ul li:last-child{ border:none;}
-#sidebar ul li span{padding-left:20px;}
-.fullwidth{ width:100%; float:none;}
-#sidebar h2{padding-top:20px; margin-bottom:15px;}
-#sidebar .wp-block-search__button{padding:0 12px;}
+
 /* = Footer Social css
 -------------------------------------------------------------- */
 .footerinfo { font:400 16px/18px 'Roboto Condensed'; display:inline-block; }
