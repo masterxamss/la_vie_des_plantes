@@ -26,6 +26,15 @@ $ git remote remove origin
 # Move into folder infos
 $ cd wp-includes/assets/infos
 
+# Login into mysql
+$ mysql -u root -p
+
+# Change password default for user root
+mysql > ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root';
+or
+mysql > ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
+mysql > exit;
+
 # Import file sql
 $ mysql -u username -p la_vie_des_plantes_db < db.sql
 
