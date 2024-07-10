@@ -4,3 +4,11 @@
 | login - tiago.machado.1987@gmail.com |
 | Password - c3*#JeY!dKtEQwhIiS        |
 +--------------------------------------+
+
++--------------------------------------+
+| MySQL ACCESS                         |
+|                                      |
+| user - root                          |
+| Password - root                      |
++--------------------------------------+
+
