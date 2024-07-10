@@ -38,7 +38,7 @@ mysql > ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
 mysql > CREATE DATABASE la_vie_des_plantes_db;
 mysql > exit;
 
-# Import file sql
+# Import script sql
 $ mysql -u root -p la_vie_des_plantes_db < db.sql
 
 # Go to the browser
