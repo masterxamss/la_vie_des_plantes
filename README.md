@@ -36,7 +36,7 @@ mysql > ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
 mysql > exit;
 
 # Import file sql
-$ mysql -u username -p la_vie_des_plantes_db < db.sql
+$ mysql -u root -p la_vie_des_plantes_db < db.sql
 
 # Go to the browser
 http://127.0.0.1/la_vie_des_plantes/wp-admin
