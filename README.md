@@ -33,6 +33,9 @@ $ mysql -u root -p
 mysql > ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root';
 or
 mysql > ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
+
+# Create database
+mysql > CREATE DATABASE la_vie_des_plantes_db;
 mysql > exit;
 
 # Import file sql
