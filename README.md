@@ -15,7 +15,7 @@ Mysql or MariaDB ⚡
 From your command line, first clone portfolio:
 ```
 # Clone the repository
-$ [git clone https://github.com/masterxamss/la_vie_des_plantes.git
+$ git clone https://github.com/masterxamss/la_vie_des_plantes.git
 
 # Move into the repository
 $ cd la_vie_des_plantes
